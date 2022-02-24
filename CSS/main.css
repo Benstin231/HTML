@@ -1,0 +1,41 @@
+body {
+    margin: 10px;
+    height: 100%;
+}
+
+.header {
+    background-color: rgb(54, 111, 185);
+    height: 80px;
+}
+
+.container {
+    background-color: white;
+    margin: 10px;
+}
+
+.wrapper {
+    background-color: rgba(74, 182, 146, 0.74);
+    padding-top: 80px;
+    padding-bottom: 50px;
+    padding-left: 100px;
+    padding-right: 100px;
+}
+
+.input {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+}
+
+table {
+    padding-left: 1%;
+}
+
+th, td {
+    border: 1px solid;
+}
+
+.footer {
+    background-color: rgb(54, 111, 185);
+    height: 50px;
+}
